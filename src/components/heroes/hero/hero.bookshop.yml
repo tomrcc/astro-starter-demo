@@ -5,6 +5,7 @@ spec:
   label: Hero
   description: Outline color
   icon: 'cottage'
+  remove_extra_inputs: true
   tags:
     - Heading
     - Image
